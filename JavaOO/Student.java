@@ -8,10 +8,10 @@ public class Student {
 	public static void main(String[] args){
 		Student s= new Student();
 		
-		s.name = "ÄÄÇ»ÅÍÁ¤º¸°øÇĞ°ú";
+		s.name = "ì»´í“¨í„°ì •ë³´ê³µí•™ê³¼";
 		s.studentnum = 20161854;
 		
-		System.out.println("ÇĞ°ú : "+s.name+"\nÇĞ¹ø: "+s.studentnum);
+		System.out.println("í•™ê³¼ : "+s.name+"\ní•™ë²ˆ: "+s.studentnum);
 	}
 
 }
